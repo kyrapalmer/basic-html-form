@@ -1,0 +1,20 @@
+body {
+    margin: 0 5%;
+    font-family: monospace;
+}
+
+fieldset {
+    margin-top: 5%;
+    background-color: azure;
+}
+
+label {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+input,
+textarea {
+    width: 100%;
+    font-family: monospace;
+}
